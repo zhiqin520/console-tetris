@@ -1,4 +1,4 @@
 import Tetris from './tetris';
 
-const game = new Tetris(6, 10);
+const game = new Tetris(10, 20);
 game.begin();
